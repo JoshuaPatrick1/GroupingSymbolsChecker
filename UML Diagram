@@ -1,0 +1,6 @@
+- fileName : String
+-------------------------
++ SymbolChecker(fileName : String)
++ checkSymbols() : boolean
+- isMatchingPair(open : char, close : char) : boolean
++ main(args : String[]) : void
